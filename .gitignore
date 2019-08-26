@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Builders/Builders how it works/build/
+/Builders/Builders how it works/build/classes/java/main/
+/Introduction/Hello, world!/build/
+/Introduction/Hello, world!/build/classes/java/main/
+/util/build/
+/util/build/classes/java/main/
